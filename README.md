@@ -10,14 +10,13 @@
 </header>
 
 <!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Brief of My Blog >>>
+  Maybe I will upload some of my files on this blog to backup them.
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
-<section id="step2">
+<section id="Brief of My Blog">
   <h2>Step 2: Configure your site</h2>
-  <p>You turned on GitHub Pages! :tada:</p>
+  <p>You turned on my GitHub Pages! :tada: Maybe I will upload some of my files on this blog to backup them.</p>
   <p>We'll work in a branch, <code>my-pages</code>, that I created for you to get this site looking great. :sparkle:</p>
   <p>Jekyll uses a file titled <code>_config.yml</code> to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the <code>_config.yml</code> file on the <strong>Code</strong> tab of your repository.</p>
   <p>We need to use a blog-ready theme. For this activity, we will use a theme named "minima".</p>
