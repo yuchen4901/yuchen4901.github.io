@@ -5,7 +5,7 @@
     In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
     Add your open source license, GitHub uses MIT license.
   -->
-  <h1>GitHub Pages</h1>
+  <h1>Yuchen Gong's Blog</h1>
   <p><em>Create a site or blog from your GitHub repositories with GitHub Pages.</em></p>
 </header>
 
