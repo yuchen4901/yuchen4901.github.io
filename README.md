@@ -6,7 +6,7 @@
     Add your open source license, GitHub uses MIT license.
   -->
   <h1>Yuchen Gong's Blog</h1>
-  <p><em>Create a site or blog from your GitHub repositories with GitHub Pages.</em></p>
+  <p><em>yuchen4901@foxmail.com</em></p>
 </header>
 
 <!--
